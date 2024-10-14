@@ -39,5 +39,17 @@ body {
     font-size: 14pt;
 }
 
+.logo img {
+    width: 100px;
+ }
 
+.button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
 
