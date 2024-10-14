@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -79,7 +79,7 @@
       <workItem from="1728921644210" duration="5228000" />
       <workItem from="1728932375141" duration="661000" />
       <workItem from="1728933052262" duration="74000" />
-      <workItem from="1728933175075" duration="359000" />
+      <workItem from="1728933175075" duration="841000" />
     </task>
     <task id="LOCAL-00001" summary="NAV-01&#9;Main structuur&#9;Maak een navigatie-element aan met 3 structuur-elementen erin. Elk structuurelement moet een derde van de nav breed zijn en ze moeten alle 3 naast elkaar komen te staan.">
       <option name="closed" value="true" />
@@ -105,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728933278167</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1728933725474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728933725474</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
