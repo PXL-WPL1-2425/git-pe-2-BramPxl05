@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf9f6991-f6eb-4cbf-a52a-35c30060b02a" name="Changes" comment="NAV-01&#9;Main structuur&#9;Maak een navigatie-element aan met 3 structuur-elementen erin. Elk structuurelement moet een derde van de nav breed zijn en ze moeten alle 3 naast elkaar komen te staan." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BramPxl05&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PXL-WPL1-2425/git-pe-2-BramPxl05.git&quot;,
+    &quot;accountId&quot;: &quot;2614c58b-9078-4a48-9500-a514e6554cd3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2nCPKFstRWzvupT2V4UnKCB9JI4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.git 2.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/12401770/WebstormProjects/git-pe-2-BramPxl05",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf9f6991-f6eb-4cbf-a52a-35c30060b02a" name="Changes" comment="" />
+      <created>1728474018418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728474018418</updated>
+      <workItem from="1728474019550" duration="1235000" />
+      <workItem from="1728551204445" duration="883000" />
+      <workItem from="1728921644210" duration="5228000" />
+      <workItem from="1728932375141" duration="661000" />
+      <workItem from="1728933052262" duration="74000" />
+    </task>
+    <task id="LOCAL-00001" summary="NAV-01&#9;Main structuur&#9;Maak een navigatie-element aan met 3 structuur-elementen erin. Elk structuurelement moet een derde van de nav breed zijn en ze moeten alle 3 naast elkaar komen te staan.">
+      <option name="closed" value="true" />
+      <created>1728931830345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728931830345</updated>
+    </task>
+    <task id="LOCAL-00002" summary="NAV-01&#9;Main structuur&#9;Maak een navigatie-element aan met 3 structuur-elementen erin. Elk structuurelement moet een derde van de nav breed zijn en ze moeten alle 3 naast elkaar komen te staan.">
+      <option name="closed" value="true" />
+      <created>1728931901731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728931901731</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NAV-01&#9;Main structuur&#9;Maak een navigatie-element aan met 3 structuur-elementen erin. Elk structuurelement moet een derde van de nav breed zijn en ze moeten alle 3 naast elkaar komen te staan." />
+    <option name="LAST_COMMIT_MESSAGE" value="NAV-01&#9;Main structuur&#9;Maak een navigatie-element aan met 3 structuur-elementen erin. Elk structuurelement moet een derde van de nav breed zijn en ze moeten alle 3 naast elkaar komen te staan." />
+  </component>
+</project>
